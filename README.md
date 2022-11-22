@@ -13,7 +13,7 @@
     <li><b>Mobile: React Native</b></li>
 </ul>
 
-<h3>Base de dados</h3>
+<h3> Base de dados</h3>
 <ul>
     <li><b>Status: </b>Concluída</li>
     <li><b>Tecnologias: </b>MySQL</li>
